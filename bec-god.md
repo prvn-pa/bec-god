@@ -22,20 +22,30 @@ View this slide deck here: **prvn.info/talks/200724.html**
 1. Humans and Quest for God
 2. Standing on the Shoulders of Giants
 3. Relativity & Gravity
-4. Uncertainty, Quanta and Cats
+4. Uncertainty and Quantum Theory
 5. Grant Unified Model
 
 ---
 ## Humans and Questions ##
 
-![bg left](https://i.postimg.cc/vmB4FH9V/think.gif)
+![bg right](https://i.postimg.cc/vmB4FH9V/think.gif)
 
 - Why so many stars?
 - Where are we living?
 - Are we so special?
 
 ---
-## Legacy of Aristotle ##
+![bg left](https://upload.wikimedia.org/wikipedia/commons/5/59/%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AF%81%E0%AE%B5%E0%AE%B3%E0%AF%8D%E0%AE%B3%E0%AF%81%E0%AE%B5%E0%AE%B0%E0%AF%8D_%E0%AE%95%E0%AE%B2%E0%AF%88%E0%AE%AA%E0%AF%8D_%E0%AE%AA%E0%AE%9F%E0%AF%88%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81.jpg)
+
+## Indian Scholars ##
+
+- Thiruvalluvar -- **3 CE**
+- Arybhata -- **5 CE**
+- Bhaskaracharya -- **6 CE**
+- Andal -- **9 CE**
+
+---
+## Aristotle: The influencer ##
 
 - believed in a geocentric Universe
 - thought movements of the planets and stars must be circular
@@ -75,16 +85,7 @@ View this slide deck here: **prvn.info/talks/200724.html**
 - Other scientists, seized its importance and learned more about the world
 
 ---
-![bg right](https://upload.wikimedia.org/wikipedia/commons/5/59/%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AF%81%E0%AE%B5%E0%AE%B3%E0%AF%8D%E0%AE%B3%E0%AF%81%E0%AE%B5%E0%AE%B0%E0%AF%8D_%E0%AE%95%E0%AE%B2%E0%AF%88%E0%AE%AA%E0%AF%8D_%E0%AE%AA%E0%AE%9F%E0%AF%88%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81.jpg)
 
-## Legacy of Indian Scholars ##
-
-- Thiruvalluvar -- **3 CE**
-- Arybhata -- **5 CE**
-- Bhaskaracharya -- **6 CE**
-- Andal -- **9 CE**
-
----
 ![bg left](https://upload.wikimedia.org/wikipedia/commons/d/d4/Johannes_Kepler_1610.jpg)
 
 ## Kepler and his Three Laws ##
@@ -188,7 +189,7 @@ Space-time is a mathematical model that joins space and time into a single idea 
 ![bg opacity](https://i.postimg.cc/Z5mYZKkq/vc.jpg)
 ## Friedmann and Expanding Universe ##
 
-![w:800](https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fstartswithabang%2Ffiles%2F2018%2F01%2Fhowfastisthe-1200x833.jpg)
+![w:800](https://i.postimg.cc/wBHR6b4M/https-blogs-images-forbes-com-startswithabang-files-2018-01-howfastisthe-1200x833.jpg)
 
 ---
 ![bg right](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2NnH7ddE83LiGLVmzVA18wICxx0PIjHTUcMSg0LDfVM8GQV1s&s)
@@ -208,7 +209,7 @@ Space-time is a mathematical model that joins space and time into a single idea 
 
 ## Newton's Theory and Determinism ##
 
-![w:800](https://lh3.googleusercontent.com/proxy/KUeAlbUI8xCVO6uOLiKLu4r9Am6RJZ5sMkJ4mPVKKpZwqmtSbJI-yHd41AYlcraytOkGtgHOHZ34AgHhdWHDorlxzR6_aCLTviQx)
+![w:800](https://i.postimg.cc/jSfyqfsg/det.gif)
 
 ---
 
@@ -311,7 +312,7 @@ Space-time is a mathematical model that joins space and time into a single idea 
 
 ![bg right](https://images.newscientist.com/wp-content/uploads/2015/08/h_02681055.jpg?width=778)
 
-## Legacy of Stephen Hawking ##
+## Genious of Stephen Hawking ##
 - General relativity, doesn’t take into account quantum mechanics. 
 - Some unknown “theory of everything” was needed to unite the two.
 - Hawking showed singularity at the universe’s origin signalled the need for quantum gravity
@@ -374,7 +375,7 @@ When pairs of particles and antiparticles spawn near a black hole's event horizo
 
 ---
 
-![bg right](https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fstartswithabang%2Ffiles%2F2015%2F12%2FCalabi-Yau.jpg)
+![bg right](https://i.postimg.cc/D0sbfkhW/https-blogs-images-forbes-com-startswithabang-files-2015-12-Calabi-Yau.png)
 
 ## Path to Quantum Gravity ##
 
